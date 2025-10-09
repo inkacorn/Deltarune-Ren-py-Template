@@ -5,7 +5,7 @@ Note: This template uses a custom resolution of 960px by 720px. While, I could l
 
 # How to Use
 > [!WARNING]
-> I recommend making a new project with 720 as the height and 960 as the width. Failing to do so will cause unexpected issues with the GUI and its functionality. 
+> It's recommend making a new project with 720 as the height and 960 as the width. Failing to do so will cause unexpected issues with the GUI and its functionality. 
 
 To customize a majority of the template, follow [this link](https://www.renpy.org/doc/html/index.html) for the offical Ren'Py documentations. For customizating minigames and text objects, follow [this link](https://www.renpy.org/doc/html/cdd.html) for Ren'Py's documentation on Creator-Defined-Displayables.\
 Once you have your project created, replace all game folder contents with the downloaded template.
